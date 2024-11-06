@@ -1,1 +1,26 @@
-
+[
+  {
+    "Name": "Vampire",
+    "Type": "Bayonet",
+    "Price": "TBD",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/Bayonet/Vampire-render.webp",
+    "date": "2024-11-01"
+    "Rarity": "Legendary"
+  },
+  {
+    "Name": "Vampire",
+    "Type": "SCAR",
+    "Price": "TBD",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/SCAR/Scarey-render.webp",
+    "date": "2024-11-01"
+    "Rarity": "Epic"
+},
+  {
+    "Name": "Polychrome",
+    "Type": "Vita",
+    "Price": "TBD",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/VITA/Polychrome-render.webp",
+    "date": "2024-11-01"
+    "Rarity": "Legendary"
+  }
+]
