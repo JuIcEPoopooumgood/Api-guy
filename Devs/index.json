@@ -10,8 +10,8 @@
     "User": "PoopooumgoodYT",
     "ID": 1169111190824308768,
     "kirkaid": "985CBJ",
-    "Added": "suggested (.trades <Id>) (.devs PPUG) (.clanwar)",
-    "Role": "API maintainer, suggester."
+    "Added": "suggested (.trades <Id>) (.devs <devName>) (.clanwar)",
+    "Role": "API maintainer, suggester. A part of .Dev as PPUG"
   },
   {
     "User": "Skywalk",
