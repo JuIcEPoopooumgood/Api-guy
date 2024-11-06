@@ -3,18 +3,24 @@
     "User": "Glitchy",
     "ID": 1236667927944761396,
     "kirkaid": B0TMFC,
-    "Added": Made The bot,
-  }
+    "Added": "Main developer of the bot",
+  },
   {
     "User": "PoopooumgoodYT",
     "ID": 1169111190824308768,
     "kirkaid": 985CBJ,
-    "suggested": suggested .trades <Id> .Devs,
-  }
+    "Added": "suggested .trades <Id> .devs ",
+  },
   {
     "User": "Skywalk",
     "ID": 330501044532674570,
-    "kirkaid": 7VUNQK,
-    "apiUsed": https://kirka.lukeskywalk.com/trades.json,
-  }
+    "kirkaid": "7VUNQK",
+    "Added": "Used https://kirka.lukeskywalk.com/trades.json and code from trades comparer (.compare_trade)",
+  },
+  {
+  "User: "Irrvlo",
+  "ID": 871895500490678273,
+  "kirkaid": "",
+  "apiUsed": "kirka.irrlvo.xyz"
+}
 ]
