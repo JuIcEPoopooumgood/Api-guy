@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Polychrome",
+    "Type": "VITA",
+    "Price": "TBD",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/VITA/Polychrome-render-3d.webp",
+    "date": "30th Clan War (Oct 24)"
+    "Rarity": "Legendary"
+  },
+  {
+    "Name": "Scarey",
+    "Type": "SCAR",
+    "Price": "TBD",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/SCAR/Scarey-render-3d.webp",
+    "date": "30th Clan War (Oct 24)"
+    "Rarity": "Epic"
+},
+  {
+    "Name": "Vampire",
+    "Type": "Bayonet",
+    "Price": "TBD",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/Bayonet/Vampire-render-3d.webp",
+    "date": "30th Clan War (Oct 24)"
+    "Rarity": "Legendary"
+  }
+]
