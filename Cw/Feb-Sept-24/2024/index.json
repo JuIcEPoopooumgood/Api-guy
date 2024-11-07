@@ -4,7 +4,7 @@
     "Type": "Bayonet",
     "Price": "40,000",
     "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/Bayonet/Turtle-render.webp",
-    "date": "2024-10-01"
+    "date": "2024-10-01",
     "Rarity": "Mythical"
   },
   {
@@ -12,7 +12,7 @@
     "Type": "Character",
     "Price": "140,000",
     "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/Characters/Xx-render.webp",
-    "date": "2024-10-01"
+    "date": "2024-10-01",
     "Rarity": "Mythical"
   },
   {
@@ -20,7 +20,7 @@
     "Type": "Vita",
     "Price": "60,000",
     "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/VITA/Astra-render.webp",
-    "date": "2024-10-01"
+    "date": "2024-10-01",
     "Rarity": "Mythical"
   }
 ]
