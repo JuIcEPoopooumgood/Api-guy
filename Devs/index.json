@@ -4,34 +4,34 @@
     "ID": 1236667927944761396,
     "kirkaid": "B0TMFC",
     "Added": "Main developer of the bot",
-    "Role": "Owner/Lead Dev, .Dev as 500"
+    "Role": "`Owner/Lead Dev`, `.Dev as 500`"
   },
   {
     "User": "PoopooumgoodYT",
     "ID": 1169111190824308768,
     "kirkaid": "985CBJ",
-    "Added": "suggested (.trades <Id>) (.devs <devName>) (.clanwar)",
-    "Role": "API maintainer, suggester, .Dev as PPUG,"
+    "Added": "suggested `(.trades <Id>)` `(.devs <devName>)` (.clanwar) `(.cwrewards)`",
+    "Role": "`API maintainer`, `suggester`, `.Dev as PPUG,`"
   },
   {
     "User": "Skywalk",
     "ID": 330501044532674570,
     "kirkaid": "7VUNQK",
-    "Added": "Created https://kirka.lukeskywalk.com/trades.json and i also used code from trades comparer (.compare_trade)",
-    "Role": "API Maintainer"
+    "Added": "Created https://kirka.lukeskywalk.com/trades.json and i also used code from trades comparer `(.compare_trade)`",
+    "Role": "`API Maintainer`"
   },
   {
     "User": "Irrvlo",
     "ID": 871895500490678273,
     "kirkaid": "H8N3U4",
     "Added": "kirka.Io/api/",
-    "Role": "API Maintainer"
+    "Role": "`API Maintainer`"
   },
   {
     "User": "CarrySheriff",
     "ID": 619377929951903754,
     "kirkaid": "694TAJ",
-    "Added": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/<Type>/<Name>-render.png used in (.t) (.r)",
-    "Role": "image Maintainer"
+    "Added": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/<Type>/<Name>-render.png used in `(.t)` `(.r)`",
+    "Role": "`image Maintainer`"
   }
 ]
