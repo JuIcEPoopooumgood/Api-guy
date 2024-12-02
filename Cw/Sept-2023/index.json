@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Meteor",
+    "Type": "VITA",
+    "Price": "320.000",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/VITA/Meteor-render.webp",
+    "date": "17th Clan War (Sept & Oct 2023)",
+    "Rarity": "Mythical"
+  },
+  {
+    "Name": "Waves",
+    "Type": "SCAR",
+    "Price": "280.000",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/SCAR/Waves-render.webp",
+    "date": "17th Clan War (Sept & Oct 2023)",
+    "Rarity": "Legendary"
+},
+  {
+    "Name": "Eruption",
+    "Type": "Bayonet",
+    "Price": "200.000",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/Bayonet/Eruption-render.webp",
+    "date": "17th Clan War (Sept & Oct 2023)",
+    "Rarity": "Legendary"
+  }
+]
