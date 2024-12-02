@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Landoh",
+    "Type": "VITA",
+    "Price": "TBD",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/VITA/Landoh-render.webp",
+    "date": "31th Clan War (Dec 1)",
+    "Rarity": "Legendary"
+  },
+  {
+    "Name": "Pool Blaster",
+    "Type": "MAC-10",
+    "Price": "TBD",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/MAC-10/Pool%20Blaster-render.webp",
+    "date": "31th Clan War (Dec 1)",
+    "Rarity": "Legendary"
+},
+  {
+    "Name": "Swirl",
+    "Type": "Revolver",
+    "Price": "TBD",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/Revolver/Swirl-render.webp",
+    "date": "31th Clan War (Dec 1)",
+    "Rarity": "Epic"
+  }
+]
