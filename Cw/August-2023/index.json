@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "Howl",
+    "Type": "LAR",
+    "Price": "3.000.000",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/LAR/Howl-render.webp",
+    "date": "16th Clan War (August 2023)",
+    "Rarity": "Legendary"
+  },
+  {
+    "Name": "Cyborg",
+    "Type": "VITA", 
+    "Price": "320.000",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/VITA/Cyborg-render.webp",
+    "date": "16th Clan War (August 2023)",
+    "Rarity": "Legendary"
+},
+  {
+    "Name": "Hell let loose",
+    "Type": "M60",
+    "Price": "250.000",
+    "Tinyimg": "https://raw.githubusercontent.com/SheriffCarry/KirkaSkins/main/M60/Hell%20let%20loose-render.webp",
+    "date": "16th Clan War (August 2023)",
+    "Rarity": "Legendary"
+  }
+]
